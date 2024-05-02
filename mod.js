@@ -378,9 +378,6 @@ module.exports = {
       archive.mspa.story['005970'].content = archive.mspa.story['005970'].content.replace(
         "The Handmaid will enlist the Condesce, extending the same bargain once offered to her. It will be the sort involving neither negotiation nor possibility of refusal, expressed in terms plainly understood by the psychotic genocidal. The Condesce will serve as her new master's witch, carrying out his work in the places he cannot reach.", 
         "The Handmaid will enlist the Condesce, extending the same bargain once offered to her. It will be the sort involving neither negotiation nor possibility of refusal, expressed in terms plainly understood by the soulless genocidal. The Condesce will serve as her new master's witch, carrying out his work in the places he cannot reach.")
-      archive.mspa.story['006224'].content = archive.mspa.story['006224'].content.replace(
-        '<a href="/decode/morse" target="_blank" class="postlink"><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/HELPHIM.gif" border="0" /></a>', 
-        '<a href="https://www.google.com/#hl=en&amp;q=morse+code+translator" target="_blank" class="postlink"><img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/HELPHIM.gif" border="0" /></a>')
       archive.mspa.story['006751'].content = archive.mspa.story['006751'].content.replace(
         '<span style="color: #f2a400">TT: As humanity was dwindling due to an increasingly whimsical and psychopathic Condesce, she began introducing more of these Carapacians on to the scene.</span>', 
         '<span style="color: #f2a400">TT: As humanity was dwindling due to an increasingly whimsical and unstable Condesce, she began introducing more of these Carapacians on to the scene.</span>')
